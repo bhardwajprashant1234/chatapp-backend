@@ -3,7 +3,7 @@ const corsOptions = {
     "http://localhost:5173",
     "http://localhost:4173",
     "http://localhost:3000",
-    "https://chatapp-frontend-swart.vercel.app/"
+    "https://chatapp-frontend-swart.vercel.app"
   ],
   methods: ["GET", "POST", "PUT", "DELETE"],
   credentials: true,
